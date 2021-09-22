@@ -7,7 +7,8 @@
         "test": "jest",
         "start": "nodemon --exec babel-node  src/index.js",
         "object": "nodemon --exec babel-node  src/objects.js",
-        "object-more": "nodemon --exec babel-node  src/object-more.js"
+        "object-more": "nodemon --exec babel-node  src/object-more.js",
+        "object-dest": "nodemon --exec babel-node  src/objects-destruct-spread.js"
     },
     "author": "Shripada <shripada@robosoftin.com> (Robosoft Technologies Pvt Ltd)",
     "license": "ISC",
